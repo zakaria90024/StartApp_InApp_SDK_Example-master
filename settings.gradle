@@ -1,0 +1,2 @@
+include ':app'
+include ':example-gdpr-consent-dialog'
